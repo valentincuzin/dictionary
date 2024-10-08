@@ -1,0 +1,13 @@
+# dictionary
+
+My click dictionary extensions
+
+Features:
+- double click on a word give you a definition
+- store all your definition in the Dictionary page, with synonyms
+
+TODO:
+1. verify only 1 word
+2. english only, language configuration
+3. hearing the word, store voice
+4. more definition in the dictionary page

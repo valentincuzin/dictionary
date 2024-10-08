@@ -1,0 +1,13 @@
+{
+	"name": "dictionary",
+	"version": "0.0.1",
+	"author": "valentincuzin",
+	"main": "index.html",
+	"description": "double click for dictionary",
+	"license": "MIT",
+	"logseq": {
+	  "id": "dictionary",
+	  "icon": "logo.png"
+	}
+  }
+  
